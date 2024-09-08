@@ -7,7 +7,7 @@ A project for analyzing and predicting house prices based on various property fe
 1. [ Haifa Alsaif - 443202006 ]
 2. [Falwah Alrashed - 444200069]
 3. [Majd Alruways - 444200722 ]
-4. [Nora Alfuhaid - 444200779]
+4. [Norah Alfaheed - 444200779]
 5. [Shawq Altamimi - 444200920]
 
 ## Project Motivation:
