@@ -8,7 +8,7 @@ A project for analyzing and predicting house prices based on various property fe
 2. [Falwah Alrashed - 444200069]
 3. [Majd Alruways - 444200722 ]
 4. [Norah Alfaheed - 444200779]
-5. [Shawq Altamimi - 444200920]
+5. [Shouq Altamimi - 444200920]
 
 ## Project Motivation:
 We decided to work on this dataset because it provides essential property features such as the number of bedrooms, bathrooms, and amenities that allow us to predict house prices. The dataset is also manageable with 546 rows and 13 columns, making it suitable for our project.
