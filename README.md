@@ -5,7 +5,7 @@ A project for analyzing and predicting house prices based on various property fe
 
 ## Group Members:
 1. [ Haifa Alsaif - 443202006 ]
-2. [Falwah Alrashed - 444200069]
+2. [Flwah Alrashed - 444200069]
 3. [Majd Alruways - 444200722 ]
 4. [Norah Alfaheed - 444200779]
 5. [Shouq Altamimi - 444200920]
