@@ -15,5 +15,5 @@ We decided to work on this dataset because it provides essential property featur
 
 ## Dataset Selection:
 - Source : [Kaggle: Housing Prices Dataset](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)
-- Number of Rows: 546
+- Number of Rows: 545
 - Number of Columns: 13
