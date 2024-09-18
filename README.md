@@ -11,7 +11,10 @@ A project for analyzing and predicting house prices based on various property fe
 5. [Shouq Altamimi - 444200920]
 
 ## Project Motivation:
-We decided to work on this dataset because it provides essential property features such as the number of bedrooms, bathrooms, and amenities that allow us to predict house prices. The dataset is also manageable with 546 rows and 13 columns, making it suitable for our project.
+
+We selected this dataset as it provides key property features such as bedrooms, bathrooms, and amenities, which help in predicting house prices.
+The dataset size (545 rows, 13 columns) is manageable for our analysis. 
+Additionally, we aim to apply both classification and clustering techniques.
 
 ## Dataset Selection:
 - Source : [Kaggle: Housing Prices Dataset](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)
